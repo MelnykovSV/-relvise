@@ -1,0 +1,136 @@
+.header {
+  width: 100%;
+  aspect-ratio: 1440/924;
+
+  background-image: url("images/relvise.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  background-color: green;
+}
+.header__navbar {
+  display: flex;
+  aspect-ratio: 1322/104;
+  margin: auto;
+  width: 91.8%;
+}
+.header__navbar h2 {
+  margin: auto 12.0547% auto 12.42009%;
+  font-family: "Montserrat";
+  display: inline-block;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  color: #252b42;
+}
+.header__navbar ul {
+  width: 60.18%;
+  margin: auto 0 auto 0;
+  display: inline-block;
+}
+.header__navbar ul li {
+  margin-right: 21px;
+  display: inline-block;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.header__navbar ul li a {
+  text-decoration: none;
+  color: #737373;
+}
+.header__content {
+  padding: 5rem;
+  aspect-ratio: 1139/900;
+  width: 79.0972%;
+}
+.header__content__part1 {
+  margin-left: 10.4514%;
+  aspect-ratio: 509/418;
+  width: 31.813rem;
+}
+.header__content__part1 h1 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 3.625rem;
+  line-height: 5rem;
+  letter-spacing: 0.2px;
+  color: #252b42;
+  margin-bottom: 2.188rem;
+}
+.header__content__part1 p {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.25rem;
+  line-height: 1.875rem;
+  margin-bottom: 2.188rem;
+  /* or 150% */
+
+  letter-spacing: 0.2px;
+
+  /* second-text-color */
+
+  color: #737373;
+}
+
+.button1 {
+  display: inline-block;
+  width: 187px;
+  height: 48px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 28px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+  background-color: #ff7b47;
+  border: 1px solid #ff7b47;
+  border-radius: 37px;
+}
+
+.button2 {
+  display: inline-block;
+  width: 157px;
+  height: 48px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 28px;
+  /* identical to box height, or 200% */
+
+  text-align: center;
+  letter-spacing: 0.2px;
+
+  /* secondary-color-1 */
+
+  color: #0d5c63;
+  border: 1px solid #0d5c63;
+  border-radius: 37px;
+}
+
+.header__content__part2 {
+}
+.main {
+}
+.main__exp {
+}
+.main__advice {
+}
+.main__we-are {
+}
+.main__subscribe {
+}
+.main__contacts {
+}
+.footer {
+}
